@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "484292698141",
+    "project_id": "smart-imageshop-7cf9e",
+    "storage_bucket": "smart-imageshop-7cf9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484292698141:android:e98db2ffaab00fcc8da6f4",
+        "android_client_info": {
+          "package_name": "com.muhammadmubashirsapplication.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUOskukWABe--UX0L_5IsbaLXfPtlhU20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

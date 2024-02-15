@@ -1,0 +1,54 @@
+name: muhammad_mubashir_s_application9
+description: A new Flutter project.
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.12.0 <3.0.0'
+dependencies: 
+  flutter: 
+   sdk: flutter
+  camera: ^0.10.5+7
+  firebase_core: ^2.15.1
+  permission_handler: ^10.0.0
+  image_gallery_saver: ^2.0.3
+  fluttertoast: ^8.0.8
+  google_ml_kit: ^0.16.3
+  url_launcher: ^6.1.8
+  image: ^4.0.17
+  cloud_firestore: ^4.9.1
+  firebase_auth: ^4.9.0
+  js: ^0.6.7
+  firebase_storage: ^11.2.6
+  cached_network_image: ^3.2.1
+  flutter_svg: ^1.1.6
+  intl: ^0.18.0
+  universal_html: ^2.2.4
+  flutter_image: ^4.1.8
+  path_provider: ^2.0.14
+  image_picker: ^1.0.4
+
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/play_store_512.png"
+  min_sdk_android: 21
+
+
+
+flutter: 
+  uses-material-design: true
+  assets: 
+    - assets/
+    - assets/images/
+    - assets/images/downloadimage.png
+  fonts: 
+    - family: Kadwa
+      fonts: 
+        - asset: assets/fonts/KadwaBold.ttf
+          weight: 700
+        - asset: assets/fonts/KadwaRegular.ttf
+          weight: 400
